@@ -4,6 +4,6 @@ This is a visual widget for streamers who grind faceit elo. It displays skill gr
 widget updates every 20 seconds
 
 # how to set it up:
-["https://gogorikidze.github.io/faceitEloWidget/?user=" + YoutFaceitUsername] is your url.
-put the url^ as a browser source in your streaming software. width: 85px | height: 35px
+["https://gogorikidze.github.io/faceitEloWidget/?user=" + YoutFaceitUsername] is your url.\
+put the url^ as a browser source in your streaming software. width: 85px | height: 35px.\
 you are good to go.
